@@ -38,3 +38,4 @@
 
 * Running a series of sex-tech hackathons
 * Running youth tech hackathons
+* Being involved in London's civic tech community
