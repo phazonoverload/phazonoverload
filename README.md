@@ -34,7 +34,7 @@
 - Developer Community Manager, Digiotology (2015 - 2016)
 - Developer Relations & Technical Project Lead, Rewired State (2014 - 2015)
 
-## You may otherwisek now me from 
+## You may otherwise know me from 
 
 * Running a series of sex-tech hackathons
 * Running youth tech hackathons
