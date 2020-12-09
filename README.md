@@ -2,7 +2,6 @@
 
 - [Twitter](https://twitter.com/_phzn)
 - [DEV Community](https://dev.to/_phzn)
-- [Twitch](https://twitch.tv/phazonoverload) - streaming 10am-12pm UK time on Mondays and Wednesdays. 
 
 ## A Bit About Me
 
