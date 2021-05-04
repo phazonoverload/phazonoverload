@@ -5,14 +5,9 @@
 
 ## A Bit About Me
 
-💼  I'm a Developer Advocate at [Vonage](https://developer.nexmo.com/), where I support developers discover, understand and build using our APIs. My focus is supporting developers in London (and, more broadly, EMEA).
-- I write [technical blog posts](https://www.nexmo.com/blog/author/kevinlewis).
-- I used to host a fortnightly coding stream aimed at beginners called [No Experience Required](https://www.youtube.com/playlist?list=PLWYngsniPr_nFzSHFNPzb715BP0pa0BQW), but now have a show called Build a Thing where we build a project together over several weeks - you can watch it on the [VonageDevs](https://twitch.tv/vonagedevs) Twitch.
-- I work on our champions program - [Vonage Voyagers](https://developer.nexmo.com/voyagers).
-- I support community event organizers take [their events online](https://www.nexmo.com/blog/2020/04/08/supporting-communities-to-go-online).
-- I also run some internal programmes such as our hackathon series OneHack and the educational activity that surrounds it. 
-
+💼  I'm a Developer Advocate at [Orbit](https://developer.nexmo.com/)
 💖 I'm an experienced event organizer
+
 - I'm lead organizer and coordinator for [You Got This](https://yougotthis.io) - a network of community-run conferences on non-technical 'core' skills.
 - I'm an organizer of [London Node User Group](https://lnug.org), [London CSS](https://www.londoncss.dev/) and [BarCamp London](https://barcamplondon.org).
 
@@ -24,7 +19,8 @@
 
 ## Where I have worked
 
-- Developer Advocate, Vonage (2020 - present)
+- Developer Advocate, Orbit (2021 - Present)
+- Developer Advocate, Vonage (2020 - 2021)
 - Director, Underland Events (2018 - 2020)
 - Director, Underland Development (2018 - 2020)
 - Education Program Support (Contractor), GitHub (2018 - 2019)
