@@ -11,6 +11,8 @@ I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩�
 - Vonage, as a Developer Advocate to help developers build with communication APIs.
 - You Got This, as Director to help people build better core skills to navigate work and personal lives.
 - Rewired State, as Developer Advocate Engineer to help organizations do more with their data.
+- Young Rewired State, as Community Lead to connect and build communities of technical young people across the world.
+- Hacksmiths, as President to run student events at the intersection of technology, art, and politics.
 
 I'm also a JavaScript developer, avid Disney fan, board gamer, and collector of vinyl.
 
