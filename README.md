@@ -1,10 +1,8 @@
-## Hello there! 
+## Hello there 💞
 
 I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩🇪 and sometimes in Leiden 🇳🇱. I speak English and I am learning German. 
 
 **By day I am Director of Developer Experience at [:octocat: Directus](https://github.com/directus/directus).** By night I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
-
-My favorite emojis: 💞 😅 😳
 
 ## As seen in...
 
@@ -20,7 +18,11 @@ I'm also a JavaScript developer, avid Disney fan, board gamer, and collector of 
 
 ## I'm currently...
 
-- Learning to play 🎹 keyboard.
-- Learning to speak 🗣️ German.
-- Spending time 🖌️ figure drawing.
-- 🧑‍🍳 Cooking for my friends and I.
+- learning to play 🎹 keyboard,
+- learning to speak 🗣️ German,
+- spending time 🖌️ figure drawing,
+- 🧑‍🍳 cooking for my friends and I.
+
+## My username...
+
+is based on [Metroid Prime](https://metroid.fandom.com/wiki/Phazon_Overload) and sometimes shortened to `_phzn` on other platforms. 
