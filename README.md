@@ -4,6 +4,8 @@ I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩�
 
 **By day I am Director of Developer Experience at [:octocat: Directus](https://github.com/directus/directus).** By night I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
+My favorite emojis: 💞 😅 😳
+
 ## As seen in...
 
 - Deepgram, as a Senior Developer Advocate heading developer education initiatives to help people build with Voice AI.
