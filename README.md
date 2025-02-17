@@ -1,26 +1,22 @@
-## About me
+## Hello there! 
 
-- 👤 **Name:** Kevin Lewis
-- ✨ **Pronouns:** He/Him
-- 🗺️ **Location:** 🇩🇪 Berlin and 🇳🇱 Leiden
-- 💼 **Job:** Director, Developer Experience @ [Directus](https://github.com/directus/directus)
-- 🗣️ **Languages:** English, German (learning)
+I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩🇪 and sometimes in Leiden 🇳🇱. I speak English and I am learning German. 
 
-Hi, I'm Kevin. I've been doing roles in Developer Relations since 2014 spanning community and events, education in all forms (docs, written guides, videos, workshops), and building tooling that helps developers build great projects. I care about building operationally-excellent programs and helping all teams within companies understand the power of writing code. 
+**By day I am Director of Developer Experience at [:octocat: Directus](https://github.com/directus/directus).** By night I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
+## As seen in...
 
+- Deepgram, as a Senior Developer Advocate heading developer education initiatives to help people build with Voice AI.
+- Orbit, as a Developer Advocate to help community builders better understand their groups.
+- Vonage, as a Developer Advocate to help developers build with communication APIs.
+- You Got This, as Director to help people build better core skills to navigate work and personal lives.
+- Rewired State, as Developer Advocate Engineer to help organizations do more with their data.
 
-<!--
-**phazonoverload/phazonoverload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also a JavaScript developer, avid Disney fan, board gamer, and collector of vinyl.
 
-Here are some ideas to get you started:
+## I'm currently...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning to play 🎹 keyboard.
+- Learning to speak 🗣️ German.
+- Spending time 🖌️ figure drawing.
+- 🧑‍🍳 Cooking for my friends and I.
