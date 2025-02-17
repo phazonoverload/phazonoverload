@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me
+
+- 👤 **Name:** Kevin Lewis
+- ✨ **Pronouns:** He/Him
+- 🗺️ **Location:** 🇩🇪 Berlin and 🇳🇱 Leiden
+- 💼 **Job:** Director, Developer Experience @ [Directus](https://github.com/directus/directus)
+- 🗣️ **Languages:** English, German (learning)
+
+Hi, I'm Kevin. I've been doing roles in Developer Relations since 2014 spanning community and events, education in all forms (docs, written guides, videos, workshops), and building tooling that helps developers build great projects. I care about building operationally-excellent programs and helping all teams within companies understand the power of writing code. 
+
+
 
 <!--
 **phazonoverload/phazonoverload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
