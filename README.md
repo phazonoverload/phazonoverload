@@ -1,6 +1,6 @@
 ## Hello there 💞
 
-I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩🇪 and sometimes in Leiden 🇳🇱. I speak English and I am learning German. 
+I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩🇪 and sometimes in Leiden 🇳🇱. I only fluently speak English. 
 
 **By day I am Director of Developer Experience at [:octocat: Directus](https://github.com/directus/directus).** By night I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
