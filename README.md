@@ -2,9 +2,7 @@
 
 I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩🇪 and sometimes in Leiden 🇳🇱. I only fluently speak English. 
 
-<!--By day I work at GitHub as a Senior Developer Advocate helping developers get the most out of the GitHub platform. By night--> 
-
-As well as my day job, I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
+By day I work at GitHub as a Senior Developer Advocate helping developers get the most out of the GitHub platform. By night, I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/phazonoverload/phazonoverload/refs/heads/main/kevin-room.webp" width="48%" alt="A bald man with a trimmed goatee is seated at a wooden table, hands clasped together in front of him. He is wearing a patterned, short-sleeved maroon shirt and a silver chain necklace. His right forearm is covered with colorful Disney tattoos. The room is warmly lit, with blinds partially closed on the window to the left, casting soft shadows. Behind him, the wall is adorned with framed photographs. An old-fashioned black rotary phone is positioned on the table to his right." />
@@ -14,6 +12,7 @@ As well as my day job, I run [a hackathon consultancy](https://hacklabs.events) 
 
 ## As seen in...
 
+- GitHub, as a Senior Developer Advocate, helping developers get the most out of the GitHub platform. Previously through being part of the team running GitHub Campus Experts. 
 - Directus, as Director of Developer Experience, owning education, community, and the extensions ecosystem.
 - Deepgram, as a Senior Developer Advocate heading developer education initiatives to help people build with Voice AI.
 - Orbit, as a Developer Advocate to help community builders better understand their groups.
