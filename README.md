@@ -1,6 +1,6 @@
 ## Hello there 💞
 
-I'm Kevin (he/him). I'm from London 🇬🇧 but now live mostly in Berlin 🇩🇪 and sometimes in Leiden 🇳🇱. I only fluently speak English. 
+I'm Kevin (he/him). I'm from London 🇬🇧 but now live in Berlin 🇩🇪.
 
 By day I work at GitHub as a Senior Developer Advocate helping developers get the most out of the GitHub platform. By night, I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
