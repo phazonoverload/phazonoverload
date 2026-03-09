@@ -2,7 +2,7 @@
 
 I'm Kevin (he/him). I'm from London 🇬🇧 but now live in Berlin 🇩🇪.
 
-By day I work as a Senior Developer Advocate. By night, I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
+By day I work as a Senior Developer Advocate at [Apify](https://apify.com) teaching developers how to reliably scrape data from the web. By night, I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
 ## As seen in...
 
