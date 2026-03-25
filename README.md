@@ -4,6 +4,8 @@ I'm Kevin (he/him). I'm from London 🇬🇧 but now live in Berlin 🇩🇪.
 
 By day I work as a Senior Developer Advocate at [Apify](https://apify.com) teaching developers how to reliably scrape data from the web. By night, I run [a hackathon consultancy](https://hacklabs.events) focused on research & development, and help devtools companies with their developer experience through community, education, and tooling work which I've been doing since 2014. 
 
+[✍🏻 Check out my blog.](https://lws.io/blog)
+
 ## As seen in...
 
 - GitHub, as a Senior Enterprise Developer Advocate helping developers get the most out of the GitHub platform. Also through being part of the team running GitHub Campus Experts. 
@@ -22,7 +24,6 @@ I'm also a JavaScript developer, avid Disney fan, board gamer, and collector of 
 
 - learning to play 🎹 keyboard,
 - learning to speak 🗣️ German,
-- spending time 🖌️ figure drawing,
 - 🧑‍🍳 cooking for my friends and I.
 
 ## My username...
